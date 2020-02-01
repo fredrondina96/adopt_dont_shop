@@ -1,0 +1,7 @@
+<h1>Shelter Name: <%= @shelter.name %></h1>
+
+<p><%= @shelter.address %></p>
+<p><%= @shelter.city %></p>
+<p><%= @shelter.state %></p>
+<p><%= @shelter.zip %></p>
+  <%= link_to 'Edit', "/shelters/#{@shelter.id}/edit" %>
