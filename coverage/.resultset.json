@@ -223,6 +223,34 @@
           null
         ]
       },
+      "/Users/fredrondina/turing/2module/projects/adopt_dont_shop/spec/features/shelters/user_can_edit_shelters_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/fredrondina/turing/2module/projects/adopt_dont_shop/spec/features/shelters/user_can_visit_shelter_page_by_id_spec.rb": {
         "lines": [
           1,
@@ -316,28 +344,28 @@
           null,
           null,
           1,
-          2,
+          4,
           null,
           null,
-          1,
-          0,
-          null,
-          null,
-          1,
           1,
           1,
           null,
           null,
           1,
-          0,
-          0,
-          0,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
           null,
           1,
-          0,
+          1,
           null,
           null
         ]
@@ -350,6 +378,6 @@
         ]
       }
     },
-    "timestamp": 1580678360
+    "timestamp": 1580678824
   }
 }
