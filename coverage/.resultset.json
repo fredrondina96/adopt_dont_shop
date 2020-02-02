@@ -223,6 +223,59 @@
           null
         ]
       },
+      "/Users/fredrondina/turing/2module/projects/adopt_dont_shop/spec/features/shelters/user_can_visit_shelter_page_by_id_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/fredrondina/turing/2module/projects/adopt_dont_shop/spec/features/shelters/users_can_delete_shelters_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/fredrondina/turing/2module/projects/adopt_dont_shop/app/models/shelter.rb": {
         "lines": [
           1,
@@ -241,7 +294,7 @@
         "lines": [
           1,
           1,
-          1,
+          2,
           null,
           null,
           1,
@@ -263,16 +316,16 @@
           null,
           null,
           1,
-          0,
-          null,
-          null,
-          1,
-          0,
+          2,
           null,
           null,
           1,
           0,
-          0,
+          null,
+          null,
+          1,
+          1,
+          1,
           null,
           null,
           1,
@@ -297,6 +350,6 @@
         ]
       }
     },
-    "timestamp": 1580677235
+    "timestamp": 1580678360
   }
 }
